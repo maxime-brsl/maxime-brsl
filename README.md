@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="hello">, je suis Maxime</h1>
 <h3 align="center">Passionné par l'informatique et les nouvelles technologies</h3>
 
-- 🌐 Moi [here](https://mbrasley.me/)
+- 🌐 Retrouvez moi [ici](https://mbrasley.me/)
 - 🎓 Je suis étudiant en deuxième année à l'[**IUT Nancy-Charlemagne**](https://iut-charlemagne.univ-lorraine.fr/)
 - 📩 Vous pouvez me contacter moi ici : [**maxime.brasley@gmail.com**](maxime.brasley@gmail.com)
 
