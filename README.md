@@ -14,7 +14,7 @@
 
 ## Langages et technologies
 
-![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-FF993F?style=for-the-badge&logo=java&logoColor=black)
 ![MySQL](https://img.shields.io/badge/pl/sql-00618A?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
