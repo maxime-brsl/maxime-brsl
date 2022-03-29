@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, je suis Maxime</h1>
-<h3 align="center">Passionné par l'informatique et les nouvelles technologies</h3>
+<h3 align="center">Passionné par l'informatique 💻 et les nouvelles technologies  </h3>
 
 - 🌐 Retrouvez moi [ici](https://mbrasley.me/)
 - 🎓 Je suis étudiant en deuxième année à l'[**IUT Nancy-Charlemagne**](https://iut-charlemagne.univ-lorraine.fr/)
