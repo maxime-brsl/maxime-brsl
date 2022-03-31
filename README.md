@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, je suis Maxime</h1>
+<h1 align="center">Bonjour 👋</h1>
 <h3 align="center">Passionné par l'informatique 💻 et les nouvelles technologies  </h3>
 
 - 🎓 Je suis étudiant en deuxième année à l'[**IUT Nancy-Charlemagne**](https://iut-charlemagne.univ-lorraine.fr/)
