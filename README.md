@@ -1,7 +1,7 @@
 <h1 align="center">Bienvenu 👋</h1>
 <h3 align="center">Passionné par l'informatique 💻 et les nouvelles technologies  </h3>
 
-- 🎓 Je suis étudiant en deuxième année à l'[**IUT Nancy-Charlemagne**](https://iut-charlemagne.univ-lorraine.fr/)
+- 🎓 Je suis étudiant en troisième année à l'[**IDMC de Nancy**](https://idmc.univ-lorraine.fr/)
 - 🌐 Retrouvez moi [ici](https://mbrasley.me/)
 - 📩 Vous pouvez me contacter moi ici : [**maxime.brasley@gmail.com**](mailto:maxime.brasley@gmail.com)
 
