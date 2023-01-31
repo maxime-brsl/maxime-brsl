@@ -3,7 +3,7 @@
 
 - 🎓 Je suis étudiant en troisième année en licence MIASHS parcourt MIAGE à l'[**IDMC de Nancy**](https://idmc.univ-lorraine.fr/)
 - 🌐 Retrouvez moi [ici](https://mbrasley.me/)
-- 📩 Vous pouvez me contacter moi ici : [**maxime.brasley@gmail.com**](mailto:maxime.brasley@gmail.com)
+- 📩 Vous pouvez me contacter ici : [**maxime.brasley@gmail.com**](mailto:maxime.brasley@gmail.com)
 
 <!-- <div style="display: grid;grid-template-columns: repeat(2,450px)">
 <a href=""><img alt="" src="" width="400" height="140"></a>
