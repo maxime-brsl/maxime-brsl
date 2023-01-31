@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenu 👋</h1>
+<h1 align="center">Bienvenue 👋</h1>
 <h3 align="center">Passionné par l'informatique 💻 et les nouvelles technologies  </h3>
 
 - 🎓 Je suis étudiant en troisième année en licence MIASHS parcourt MIAGE à l'[**IDMC de Nancy**](https://idmc.univ-lorraine.fr/)
