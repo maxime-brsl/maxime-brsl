@@ -1,22 +1,17 @@
 <h1 align="center">Bienvenue 👋</h1>
 <h3 align="center">Passionné par l'informatique 💻 et les nouvelles technologies  </h3>
 
-- 🎓 Je suis étudiant en dernière année de master MIAGE à l'[**IDMC de Nancy**](https://idmc.univ-lorraine.fr/)
-- 🌐 Retrouvez moi [ici](https://mbrasley.me/)
+- 🎓 Je suis étudiant en alternance en dernière année de master MIAGE à l'[**IDMC de Nancy**](https://idmc.univ-lorraine.fr/)
 - 📩 Vous pouvez me contacter ici : [**maxime.brasley@gmail.com**](mailto:maxime.brasley@gmail.com)
-
-<!-- <div style="display: grid;grid-template-columns: repeat(2,450px)">
-<a href=""><img alt="" src="" width="400" height="140"></a>
-<a href=""><img alt="" src="" width="400" height="140"></a>
-<a href=""><img alt="" src="" width="400" height="140"></a>
-<a href=""><img alt="" src="" width="400" height="140"></a>
-</div> -->
-
-## Langages et technologies
+  
+## Langages et framework
 
 ![Java](https://img.shields.io/badge/java-FF995B?style=for-the-badge&logo=java&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/pl/sql-00618A?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
