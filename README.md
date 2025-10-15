@@ -1,7 +1,7 @@
 <h1 align="center">Bienvenue 👋</h1>
 <h3 align="center">Passionné par l'informatique 💻 et les nouvelles technologies  </h3>
 
-- 🎓 Je suis étudiant en alternance en dernière année de master MIAGE à l'[**IDMC de Nancy**](https://idmc.univ-lorraine.fr/)
+- 🎓 Je suis tout juste diplomé d'un master MIAGE de l'[**IDMC de Nancy**](https://idmc.univ-lorraine.fr/)
 - 📩 Vous pouvez me contacter ici : [**maxime.brasley@gmail.com**](mailto:maxime.brasley@gmail.com)
   
 ## Langages et framework
